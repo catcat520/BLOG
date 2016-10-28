@@ -10,7 +10,8 @@ GBK(1995) : 总字符21886，非汉字883，汉字21003，GBK 为微软标准而
 BIG5(1984) : 总字符13461，非汉字408，汉字13053/倚天 : 总字符13468，非汉字408，汉字13060，BIG5 最初为业界标准而非法律标准，2003年收录为台湾官方标准
 GB18030(2000 CJK-Ext-A/2005 CJK-Ext-B) : 总字符76556，汉字70244，非汉字6312
 
-
+BMP : Basic Multilingual Plane（基本多文种平面）的英文缩写，也称为第零平面(Plane 0)，Unicode编码范围是U+0000-U+FFFF
+SIP : Supplementary Ideographic Plane（表意文字补充平面）的英文缩写，也称为第二辅助平面(Plane 2)，Unicode编码范围是U+20000-U+2FFFF
 
 01.字体名称漫谈
 
