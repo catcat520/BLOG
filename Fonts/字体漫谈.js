@@ -15,6 +15,8 @@ GB18030(2000 CJK-Ext-A/2005 CJK-Ext-B) : 总字符76556，汉字70244，非汉�
 BMP : Basic Multilingual Plane（基本多文种平面）的英文缩写，也称为第零平面(Plane 0)，Unicode编码范围是U+0000-U+FFFF
 SIP : Supplementary Ideographic Plane（表意文字补充平面）的英文缩写，也称为第二辅助平面(Plane 2)，Unicode编码范围是U+20000-U+2FFFF
 
+汉仪编码缩写 : J(GB2312/6763字)/F(GBT12345/8877字)/W(汉仪编码常用简繁/9169字)/S(GB18030-2000/27533字)/H(香港字形/27533字)/B(Big5/13077字)/TS(GB18030-2005/70244字)
+
 01.字体名称漫谈
 
 常见的英文名称中有 Serif 和 Sans Serif  即为英文的两大字体类型 衬线和无衬线，代表为 Times New Roman(Serif) 和 Arial(Sans Serif)
