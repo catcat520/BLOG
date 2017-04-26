@@ -1,4 +1,6 @@
-VER : 2017.04.06 | 17:11
+Ver : 2017.04.06 | 17:15
+
+Source : https://github.com/catcat520/BLOG/blob/master/Fonts/%E5%AD%97%E4%BD%93%E6%BC%AB%E8%B0%88.js
 
 前言 : 文中虽参考多方资料，但仍有不少遗漏错误，请指正
 
